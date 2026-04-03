@@ -1,0 +1,1000 @@
+depth;pointid;oc;th_lat;th_long;survey_date;elev;lc0_desc;lc1_desc;lu1_desc
+0-20 cm;148482762;30;47.74578723;17.03536819;03/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146722792;21;48.14062552;14.71767565;05/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147862690;12.4;47.15023795;16.13421178;06/07/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;147882704;16.7;47.27427248;16.17535859;06/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147982688;47.5;47.1232602;16.28969291;02/06/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;148022702;28.1;47.24569335;16.35750603;06/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;148062708;19.4;47.29637182;16.41678159;05/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;148122730;18;47.48881664;16.52059488;18/06/18;0;Cropland;Triticale;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148202738;12.5;47.5541021;16.63555874;18/06/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148222780;22.9;47.92869563;16.71115772;21/05/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148342774;29.1;47.86505893;16.8638522;26/06/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148442784;14.4;47.94615773;17.00926007;11/06/18;0;Cropland;Rye;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146562790;15.2;48.13164949;14.50151431;07/06/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146662780;37.3;48.03630958;14.62738906;18/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146662794;41.2;48.16199724;14.63886538;05/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;146882650;22.1;46.85630794;14.8119856;19/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146782766;169.8;47.90375685;14.77615139;18/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146782778;31.7;48.01148064;14.78625884;18/07/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146842852;38.3;48.67205479;14.93110419;29/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146862842;30.6;48.5811226;14.94929368;09/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146942756;79.9;47.80449646;14.98089168;08/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;129482428;57.2;43.54183166;-7.113207482;18/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;148462776;21.8;47.87283272;17.02603165;14/05/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146942846;72.3;48.61213016;15.06110589;01/08/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;146942878;45.3;48.89920109;15.09042334;24/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146982766;33.9;47.89181128;15.04300695;24/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147002806;55.2;48.24952676;15.10565784;27/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147002816;114.6;48.33925149;15.11475237;27/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147022848;21;48.62508246;15.17119945;28/07/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147022884;36.2;48.94799358;15.20494258;01/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147042780;36.2;48.01373378;15.13568848;16/05/18;0;Shrubland;Shrubland without tree cover;Forestry
+0-20 cm;147042788;81.8;48.0855196;15.14295123;14/06/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;147042874;12.7;48.85703064;15.22270532;23/07/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147082754;162.9;47.77790891;15.16550245;24/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147082776;33.3;47.97532887;15.18551031;01/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147362808;18;48.24402118;15.59103822;24/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147102754;205.1;47.77664936;15.19212015;24/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147122762;13.5;47.84717109;15.22606358;24/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147482810;16.5;48.25366633;15.75417784;24/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147182762;112.6;47.8433281;15.30601701;04/07/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;147182802;23.2;48.20218867;15.34360954;10/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;147202848;43.6;48.61346751;15.41474181;28/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147222878;20.3;48.8811597;15.47133227;23/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147242764;147.3;47.85737019;15.38785093;24/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147242774;82.4;47.94708374;15.39733381;29/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147282790;30.4;48.08796703;15.46614489;01/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147302860;37.7;48.71438211;15.56199577;06/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147322802;14.9;48.19292023;15.53143347;29/05/18;0;Grassland;Grassland without tree/shrub cover;Road transport
+0-20 cm;147362862;17.9;48.72821368;15.64534213;20/06/18;0;Cropland;Triticale;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147402780;41.7;47.9901826;15.61683824;29/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147422872;55.7;48.81369528;15.73701883;26/06/18;0;Grassland;Spontaneously re-vegetated surfaces;Forestry
+0-20 cm;147462794;24.1;48.11159718;15.71109418;05/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147462830;17;48.43438076;15.74777325;24/05/18;0;Cropland;Durum wheat;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147482864;54.7;48.73776101;15.81008072;25/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147502772;418.5;47.91152793;15.74232302;24/07/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;147522746;29.1;47.67695905;15.74276958;23/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147202790;22;48.09323732;15.35904016;16/05/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147522800;20.4;48.16119375;15.7975866;05/07/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;147522858;18.1;48.68113594;15.8579662;12/06/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147702818;15.5;48.30955796;16.0581072;24/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147582744;219.3;47.65480589;15.82039312;23/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147602836;34.4;48.47819549;15.94276715;19/06/18;0;Woodland;Broadleaved woodland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147622754;481;47.7416345;15.88374465;21/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147822764;46.2;47.81664234;16.16029648;17/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147642862;22;48.70829192;16.02476493;23/05/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147662810;18.7;48.24079034;15.99581379;27/05/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147662860;18.7;48.68889773;16.04967587;23/05/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147682754;419.9;47.73731361;15.96349091;03/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;147722780;265.8;47.96748332;16.04417339;17/05/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;147722816;19.2;48.29015496;16.08281825;24/05/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147742758;63.8;47.7687947;16.04745715;17/05/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147742848;18.4;48.57542474;16.14471725;04/07/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;147762734;72.1;47.5521552;16.04865989;25/07/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;147802732;34.9;47.53127198;16.09950134;19/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147802746;75.4;47.65678235;16.1143944;16/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147822830;19.3;48.40811053;16.23266131;23/05/18;0;Artificial land;Other artificial areas;Electricity gas and thermal power distribution
+0-20 cm;147842688;25.2;47.13378914;16.10583434;04/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147882830;15.4;48.40352598;16.31343033;14/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147882836;14.5;48.45727905;16.32020173;28/05/18;0;Cropland;Other root crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147942726;49.5;47.46695942;16.27822053;16/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147942784;37.7;47.98675742;16.34222748;20/08/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146142788;14.6;48.1352633;13.93676805;04/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147942870;11.4;48.75716362;16.44025251;19/05/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147982796;28.4;48.09117243;16.40918794;17/05/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146202812;12.9;48.34792763;14.03441481;18/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;130702378;62.1;43.34076231;-5.511277432;10/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147782854;21.7;48.62617322;16.20543133;20/06/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147802840;18.3;48.4992256;16.21684089;28/05/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147822862;19.5;48.69480289;16.26852997;20/06/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147982850;16.3;48.57489201;16.47113472;20/06/18;0;Cropland;Durum wheat;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148002836;19.8;48.44792185;16.4818701;14/06/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148002872;22.1;48.77033238;16.52392271;19/05/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148082834;26.6;48.42364179;16.58726406;21/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;148182862;23.2;48.66622515;16.75568769;16/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146222796;25.7;48.20323399;14.04980896;15/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148182826;14.7;48.34390372;16.7122817;16/06/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148202842;14.6;48.48552277;16.7584397;16/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148222820;25.3;48.28689838;16.75881338;21/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;148242800;19.2;48.10616571;16.76163138;14/05/18;0;Cropland;Soya;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146342786;12;48.1073876;14.2035016;04/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148282804;54.4;48.1386775;16.81995786;10/06/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;145362624;78.3;46.69278579;12.80882935;11/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145382662;12.3;47.03394887;12.85336413;26/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145402624;52.3;46.69141074;12.86104179;11/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145482622;50.2;46.67059222;12.96445362;15/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145542620;58.1;46.65041528;13.04170233;11/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145642652;40.3;46.93447096;13.1894286;07/06/18;0;Artificial land;Non built-up area features;Construction
+0-20 cm;145642656;61.1;46.97044528;13.19161038;07/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145682634;102.7;46.77102174;13.23194044;01/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145722612;236;46.57156268;13.27199429;11/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145722614;113.1;46.58955263;13.27310089;15/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145842658;62.6;46.98036456;13.45515561;12/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145882618;52.3;46.61897682;13.48384238;14/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145902624;265.9;46.67208777;13.51347386;03/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145962662;43.7;47.01118125;13.6150654;14/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146022620;132.3;46.63089403;13.66750419;03/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146022632;129;46.73879624;13.67497545;09/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146062628;97.5;46.70103584;13.72468177;09/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146082614;81.7;46.57424737;13.74189902;03/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146122616;313.3;46.59040369;13.7952553;28/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147242740;106.3;47.64203726;15.36526405;02/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;148122780;31.6;47.93677674;16.57783537;14/05/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;148122798;20.8;48.09800842;16.59875656;10/06/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146182646;52.9;46.85732008;13.89316375;28/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146202640;107.3;46.80243622;13.91533465;28/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146262642;44.6;46.81753637;13.99513148;27/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146342650;44.1;46.88551226;14.10533046;03/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146362660;155.9;46.97438527;14.13857867;04/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146402652;38.6;46.90046971;14.18531001;03/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;146422624;19.1;46.64780123;14.19149875;14/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146442642;26.8;46.80855783;14.23047478;02/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;146462636;23.4;46.7536063;14.25227846;17/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146482614;27.8;46.55484536;14.26247896;16/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146502658;8.8;46.94922795;14.32068033;23/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146522626;16.2;46.66061565;14.32328565;02/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146522628;147.8;46.67858976;14.32475147;02/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146522640;11.5;46.78643002;14.33357331;17/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146542614;69.5;46.55171767;14.34053549;02/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;146562632;11.2;46.71242592;14.37987973;02/07/18;0;Cropland;Triticale;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146562646;22.1;46.83823007;14.39031807;26/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146582638;29.6;46.76527679;14.4104669;25/05/18;0;Cropland;Rye;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146602618;41.5;46.58448055;14.42157118;19/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146622648;40.4;46.8529766;14.47030854;26/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146642626;13.1;46.65421303;14.47969435;23/05/18;0;Grassland;Spontaneously re-vegetated surfaces;Construction
+0-20 cm;146682636;54;46.74187994;14.53951673;23/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146722638;46.4;46.75763449;14.59328973;14/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146722642;31;46.79357148;14.59641469;26/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146762666;108.7;47.00692296;14.66775444;18/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146782664;129.4;46.98782248;14.69238373;20/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146802648;192.1;46.84296037;14.70573746;26/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146842660;150.3;46.94845087;14.76779589;27/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146862662;14.4;46.96525401;14.79563999;20/06/18;0;Grassland;Grassland without tree/shrub cover;Residential
+0-20 cm;146882664;24.4;46.98204967;14.82350227;20/06/18;0;Cropland;Rye;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146882668;106.3;47.01797398;14.82680577;27/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146982642;211.9;46.77854482;14.93604108;18/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146982660;65.9;46.94019757;14.9512077;19/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147002640;120.7;46.75938262;14.96047222;18/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147022632;723.9;46.68632819;14.97981317;10/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147022650;101.2;46.84798219;14.99507212;26/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147042630;132.7;46.66715557;15.00418801;10/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147042658;104.5;46.91860612;15.02807888;26/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147082630;120.2;46.6647167;15.05631052;02/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146022704;145.5;47.38606036;13.72063914;21/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146042706;31.2;47.40312874;13.74837926;21/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146102726;64.1;47.58010261;13.84104915;08/08/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;146142734;95.2;47.65010797;13.89956238;24/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146182714;52.7;47.46848577;13.93897223;20/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146202682;76;47.17995188;13.94357916;23/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146222728;343.2;47.5923537;14.00166423;01/06/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;146242712;197;47.44761372;14.01701647;20/07/18;0;Shrubland;Shrubland without tree cover;Forestry
+0-20 cm;146262660;123.8;46.97932748;14.00742325;04/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146282726;268.9;47.57143692;14.0798686;08/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Forestry
+0-20 cm;146302682;112.4;47.1750839;14.07524146;07/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146362688;366.8;47.22600082;14.15852243;07/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146382686;32.5;47.20701685;14.18343475;23/06/18;0;Cropland;Other fruit trees and berries;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146402674;15.9;47.09817091;14.20110096;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146402688;85.1;47.22396819;14.21122967;07/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146422672;45.2;47.07917643;14.22593931;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146422682;34.4;47.16903157;14.23320629;23/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146422690;285.6;47.24091212;14.23904299;07/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146442684;39.7;47.18597053;14.26099676;23/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146442692;151.3;47.25784865;14.26687474;23/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146442702;126.2;47.34769189;14.27425151;16/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146442710;362.5;47.41956298;14.28017647;31/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146462726;246.6;47.56224935;14.31861299;31/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146502720;186.3;47.50624219;14.36709679;09/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146522674;40.4;47.09193694;14.35882195;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146522722;62;47.52314219;14.39511742;09/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146562692;147.5;47.25151561;14.42507064;19/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146562722;140.9;47.52099275;14.44811846;09/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146602676;104.8;47.10562096;14.46548297;06/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146602700;31.9;47.32121487;14.48398337;16/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146622668;42.2;47.03266438;14.48561227;21/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140203058;84.5;50.55521898;5.750061841;29/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;146622720;37.1;47.49975789;14.52603893;25/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146642712;126.5;47.42680461;14.54620905;25/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146642736;197.9;47.64234548;14.56522667;22/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146662682;127.5;47.15623747;14.54903322;06/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146682698;51.6;47.29884348;14.58797894;10/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146702674;40;47.08215585;14.59533803;27/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146742676;106;47.09787661;14.64948176;18/07/18;0;Artificial land;Non built-up linear features;Road transport
+0-20 cm;146762724;25.6;47.52781882;14.71470133;12/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146782690;27.7;47.22134535;14.71337834;13/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146842692;61.9;47.23584343;14.79405411;12/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146842710;29.3;47.39747867;14.80898806;05/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146862694;185.5;47.25263588;14.82206474;12/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146882726;70.6;47.53878371;14.87536709;09/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146942670;210.4;47.0323917;14.9071984;12/05/18;0;Grassland;Grassland with sparse tree/shrub cover;Forestry
+0-20 cm;146942692;63.2;47.2299427;14.92578404;09/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146942710;48.8;47.39155674;14.94112525;05/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146962676;77.8;47.08507624;14.93852025;10/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146962682;164.8;47.13895299;14.94361145;10/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146982696;65.2;47.26345145;14.98190306;09/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147042684;52.1;47.1520581;15.05052746;10/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147042738;196.1;47.63680744;15.09798277;04/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147062718;315;47.45605039;15.10672908;02/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147082664;115.7;46.97002764;15.08565924;26/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147082720;36.3;47.47275819;15.13496479;02/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147122662;104.9;46.94959028;15.13632113;30/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147122698;164;47.27277908;15.16817196;24/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147122706;34.1;47.34458953;15.17531885;28/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147122726;81.4;47.52410118;15.19329717;31/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147162666;32;46.98299658;15.19226672;29/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147182690;43.5;47.19717734;15.24001763;08/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147202670;21.1;47.01637264;15.24828514;29/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147202740;77.5;47.64463301;15.31217328;02/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147222654;43.3;46.87146094;15.26011538;30/05/18;0;Cropland;Apple fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147222676;33.2;47.06895544;15.27994053;04/07/18;0;Cropland;Apple fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147242638;38.8;46.72653684;15.27190355;02/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147262634;109;46.68934301;15.29439514;02/07/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;147282676;43.8;47.06508257;15.35870234;23/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147302694;66.8;47.22532737;15.40164026;23/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147302738;110.5;47.6201512;15.44299215;31/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147322694;171;47.22401265;15.42797125;23/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147322744;101.1;47.67265508;15.47525207;09/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147342710;80.9;47.36626722;15.46938929;24/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147362636;65;46.70080052;15.42655909;13/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147382700;25.4;47.27386952;15.51265654;09/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147402702;74.8;47.29047316;15.54092189;23/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147402716;91.7;47.41608545;15.55435494;17/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147422704;75.3;47.30706912;15.56920571;23/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147442660;12.2;46.91089102;15.5534621;13/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147562650;15.1;46.81296314;15.70074642;10/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147442702;31.1;47.28776926;15.59364242;23/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147462636;46.1;46.69414396;15.55689744;11/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147462692;16.3;47.19668628;15.61032163;12/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147462712;47.5;47.37612375;15.62972284;23/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147462736;48.1;47.59142043;15.65323206;17/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147462746;174.9;47.68111841;15.66310175;19/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147482734;285.8;47.57210351;15.67776567;17/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;147482742;336.4;47.64386094;15.6856875;19/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147502700;31.6;47.26572273;15.67075658;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147522704;34;47.30022679;15.70103646;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147522710;154.1;47.35405148;15.70695091;22/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147522738;30.3;47.60520776;15.73476033;10/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147542736;289.3;47.58587287;15.75927001;17/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147562664;27.9;46.93858531;15.71437019;07/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147562696;36.1;47.22568027;15.74582636;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147562706;110.7;47.31538581;15.75574766;07/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147562710;105;47.3512665;15.75972847;07/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147562732;58.9;47.54859482;15.78174933;25/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156102380;20.9;43.28680096;25.97559487;01/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147582730;70.9;47.52924927;15.8062161;25/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147622700;55.1;47.25734612;15.82881114;14/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147642668;14.6;46.96887542;15.82306617;24/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147642704;63.4;47.29180519;15.8591913;07/06/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;147642728;170.3;47.50705186;15.88359546;25/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147662652;25.2;46.82391618;15.83331617;11/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147662698;16;47.23656434;15.87945824;14/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147722698;19;47.23225331;15.95843327;07/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147682690;65.8;47.16337965;15.89765686;13/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147762666;3.1;46.94234607;15.97816659;13/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147702714;47.6;47.37718955;15.94852335;25/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147702722;83.6;47.44893068;15.95677387;05/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147742642;28.1;46.72849651;15.92771236;10/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147742660;23.1;46.88997203;15.94589521;13/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147742674;33.1;47.01555113;15.9601368;15/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;147742710;19.9;47.33841761;15.99716302;04/06/18;0;Cropland;Soya;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;147742728;95.8;47.49982374;16.01589792;21/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;147802696;52.4;47.20848131;16.06162634;04/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;147782686;16.1;47.12026971;16.02494715;26/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;127182008;16.1;39.37538276;-8.707174304;08/05/18;0;Grassland;Grassland without tree/shrub cover;Other abandoned areas
+0-20 cm;127361846;10.3;37.99370508;-8.104139267;24/07/18;0;Cropland;Olive groves;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;127842206;43.6;41.25214945;-8.46897261;04/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;128322234;40.7;41.60096343;-7.983146225;27/07/18;0;Shrubland;Shrubland without tree cover;Energy production
+0-20 cm;128382160;31.8;40.96569098;-7.722229895;30/04/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;128502212;41.8;41.44658272;-7.715523427;01/08/18;0;Shrubland;Shrubland without tree cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;128661894;9.6;38.68398208;-6.765229741;07/08/18;0;Cropland;Triticale;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;128722000;12.4;39.63007069;-6.941258418;21/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145542782;68.5;48.10715459;13.12824574;01/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;145542800;23.1;48.26894461;13.13825354;08/06/18;0;Shrubland;Shrubland with sparse tree cover;Road transport
+0-20 cm;147622718;28.1;47.4187931;15.84697644;10/05/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145602780;355.4;48.0868632;13.20757721;01/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145682752;39.8;47.83201585;13.29850348;30/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145682788;208.1;48.15558658;13.31951703;07/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145702780;164.5;48.08287618;13.34162619;07/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145722786;43.1;48.13598242;13.37201318;07/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145742754;39;47.84755543;13.37971804;30/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145782760;319.2;47.89982439;13.43670696;02/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145822828;243.9;48.50918011;13.5325144;18/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145822832;4.2;48.54511792;13.53504861;21/05/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145842754;27.7;47.84336232;13.51312906;29/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145642800;12.2;48.26503952;13.27278879;08/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145902738;486.2;47.69697295;13.58310799;25/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;145922802;22.3;48.27120359;13.65068032;20/06/18;0;Cropland;Soya;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145962734;37.5;47.65838088;13.66035556;26/07/18;0;Woodland;Broadleaved woodland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145962820;44.1;48.4311225;13.71639425;18/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145982782;118.7;48.08881509;13.71817178;04/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;146002792;55.9;48.17775205;13.75161667;04/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146042842;22.1;48.62505863;13.83945042;15/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146102852;60.3;48.71203121;13.92778205;02/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146182828;30.8;48.4926105;14.01895007;14/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145762794;11.8;48.2062195;13.4305462;07/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146242762;34.8;47.89683666;14.05225383;23/06/18;0;Woodland;Spruce dominated mixed woodland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145902768;23.8;47.9665807;13.60202602;29/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146262786;71;48.11142956;14.09626199;15/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146322834;27.7;48.53946822;14.21256397;28/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145842808;16.3;48.32862057;13.54684775;18/06/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146082830;22.3;48.51539121;13.88525065;18/06/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146202782;13.9;48.07846152;14.01298108;15/06/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146382834;32.1;48.53635735;14.29367308;13/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146422762;145.4;47.88769893;14.29251583;04/06/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;146462834;36.2;48.53211737;14.40180412;17/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146482830;29.2;48.49512988;14.4256611;17/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146502766;40.3;47.91939113;14.40236944;19/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Forestry
+0-20 cm;146522836;67.2;48.54682264;14.48449934;02/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146562812;27;48.32916994;14.51914116;25/07/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146582774;35.2;47.98688891;14.51554383;18/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146602762;47.2;47.87803575;14.53269746;19/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;146642772;38.6;47.96560539;14.59413724;18/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146642802;49.9;48.23494302;14.61858827;02/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;146682824;156.8;48.43015856;14.69067392;02/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146742758;25.7;47.83424481;14.7161331;05/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;146822808;84.2;48.27840372;14.86554239;05/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146902810;19.2;48.29155823;14.97484889;29/05/18;0;Cropland;Triticale;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145102682;14.5;47.2229502;12.49400769;30/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145102684;67.8;47.24094208;12.49486781;30/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145102688;39.5;47.27692529;12.49659032;09/07/18;0;Artificial land;Other artificial areas;Electricity gas and thermal power distribution
+0-20 cm;145122688;38;47.27631556;12.52299138;09/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145182728;69.3;47.63422172;12.62031964;28/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145222700;205.3;47.38110711;12.66050229;29/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145242698;209.8;47.36246865;12.68602437;29/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145242722;227;47.57832152;12.69724159;21/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145282706;62;47.43310202;12.74270783;21/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145342706;27.1;47.43107322;12.82213968;12/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145402772;62;48.0224279;12.93527024;01/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145442740;106.9;47.73328877;12.97206578;30/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145442766;80.6;47.96704562;12.98566922;01/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145462760;25.6;47.91237505;13.00923883;01/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145462768;33.5;47.98429539;13.01348275;08/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145482700;62.4;47.37215918;13.00433319;22/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145482768;28;47.98355852;13.04024258;01/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145502692;43;47.29948446;13.02658707;22/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145502702;16.8;47.38941082;13.03182701;22/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145522750;49.2;47.82024887;13.08397959;30/05/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145542694;36.2;47.31598608;13.08046439;23/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145562730;50.7;47.63892917;13.12636451;22/05/18;0;Artificial land;Other artificial areas;Electricity gas and thermal power distribution
+0-20 cm;145562732;66.4;47.65691054;13.12745622;22/05/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145582678;123.8;47.17059578;13.12465934;03/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145582696;37.5;47.33246067;13.13437631;23/05/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145602672;78.1;47.11587638;13.14775102;03/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145602698;57.4;47.34967968;13.16189214;23/05/18;0;Grassland;Grassland with sparse tree/shrub cover;Forestry
+0-20 cm;145602738;74.4;47.70931761;13.18396862;30/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145622768;52.3;47.97821812;13.22754121;29/05/18;0;Grassland;Spontaneously re-vegetated surfaces;Forestry
+0-20 cm;145642688;61.1;47.25821271;13.20920368;23/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145642724;49.6;47.58189488;13.22929613;24/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;145642750;85.8;47.8156297;13.24400882;30/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145662730;223.6;47.63504693;13.25925234;12/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145782694;58.7;47.30654331;13.39739192;19/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145802718;75;47.52147178;13.43807033;24/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145842740;42.6;47.7175344;13.50451974;25/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;145882676;107.9;47.1405132;13.51848206;19/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145922694;57.4;47.30060871;13.58221638;19/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146082678;98.4;47.14962803;13.78295124;14/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146122668;158.9;47.05789194;13.82901252;17/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;146122678;110.3;47.14777814;13.83559313;17/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143482670;116.2;47.14297599;10.35566695;05/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143562686;296.5;47.28660578;10.46232067;01/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143662688;169.7;47.30396617;10.59461326;01/06/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;143702704;156.4;47.44767581;10.64926194;25/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143782660;65.2;47.05094152;10.74954668;27/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143782700;58.6;47.41099162;10.75473405;31/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143802684;143.5;47.26679362;10.7790551;25/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143802702;141.5;47.42880562;10.78148522;31/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143862700;166.5;47.41020633;10.86065374;25/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;143902682;41.4;47.24776526;10.9107731;23/07/18;0;Woodland;Spruce dominated coniferous woodland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144042690;67.2;47.31806256;11.09706043;25/06/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;144082690;174.5;47.31751655;11.1499235;25/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144102696;95.5;47.37123363;11.17757638;25/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144142686;289.3;47.28064918;11.22836698;25/06/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;144222668;81.6;47.11739919;11.329884;16/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144282656;278.9;47.00839286;11.4059735;13/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144302680;56.2;47.22405776;11.4381661;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144302682;45.9;47.24205742;11.43866214;22/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144382670;50.8;47.13261103;11.54103862;20/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144382684;121.2;47.25860702;11.54475892;16/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144382686;85.5;47.27660575;11.54529227;16/07/18;0;Shrubland;Shrubland with sparse tree cover;Forestry
+0-20 cm;144402664;54.7;47.07823314;11.56575983;13/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144502714;285.2;47.52618885;11.71202377;08/06/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;144562702;494.7;47.41693905;11.78789624;08/06/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;144582712;64.6;47.50647746;11.81752698;08/06/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;144622708;70.2;47.46959154;11.86927424;14/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;144662698;86.2;47.37869559;11.91895201;18/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144782720;134.8;47.57370662;12.08564496;26/05/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144822704;57.4;47.42873932;12.13281706;18/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;144862710;21.4;47.48166716;12.18805697;18/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144862714;45.5;47.51765133;12.18957868;21/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144862732;75.7;47.67957179;12.19645997;07/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144882726;46.9;47.62506295;12.22074192;07/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144922728;46.6;47.64196001;12.27469785;03/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144962698;254.7;47.37097705;12.31576804;30/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145002638;53.8;46.8300065;12.34438732;15/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;145102712;57.4;47.49280984;12.50698978;08/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145182714;182.8;47.50830875;12.61393798;08/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;145202708;446.2;47.45370555;12.63770525;08/07/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;145242636;98.2;46.80472927;12.65759174;14/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Forestry
+0-20 cm;145362638;12.7;46.81873947;12.81552096;14/06/18;0;Artificial land;Other artificial areas;Electricity gas and thermal power distribution
+0-20 cm;142882682;44.4;47.2507092;9.564397972;24/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142942690;47.7;47.32300903;9.643104368;25/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142982676;55.4;47.19714783;9.696710862;24/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143002704;27.7;47.44925415;9.721739747;09/07/18;0;Wetlands;Inland marshes;Semi-natural and natural areas not in use
+0-20 cm;143122702;27.4;47.43154245;9.880786578;04/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156402320;36.5;42.70154577;26.18970629;09/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;143122714;35.8;47.53954963;9.880537765;01/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143162706;35.2;47.46759061;9.933724292;03/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143202710;47.5;47.50361239;9.98673564;09/07/18;0;Woodland;Spruce dominated mixed woodland;Forestry
+0-20 cm;143322692;93.3;47.34149985;10.14545305;03/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;143362694;54.3;47.35941868;10.19841354;26/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;139443132;20.6;51.17377673;4.603690251;24/08/18;0;Cropland;Nuts trees;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139443158;20.4;51.40673861;4.576201047;21/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Fallow land
+0-20 cm;139543150;54.7;51.34163036;4.727874101;21/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139623132;237.3;51.18542949;4.860541354;08/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139683136;24;51.22504309;4.942242615;31/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;139743134;24.1;51.21081227;5.029903618;31/08/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139743148;46.8;51.33631495;5.016292846;16/09/18;0;Wetlands;Inland marshes;Semi-natural and natural areas not in use
+0-20 cm;139783128;30.2;51.15944996;5.092775544;12/09/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139803126;26.4;51.14272121;5.123209278;12/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139843144;23.1;51.30649225;5.163310967;07/09/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139883120;34.7;51.09365844;5.242872444;16/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139903096;45.6;50.87960307;5.293287451;01/09/18;0;Cropland;Pear fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139943122;41.5;51.11506939;5.326555048;16/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;140003082;17.4;50.75972455;5.447431537;14/09/18;0;Cropland;Other Leguminous  and mixtures for fodder;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143962686;39.8;47.28307539;10.99064648;23/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140163108;30.1;51.00169217;5.652097812;04/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;140163114;70.2;51.0555162;5.647038089;02/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;138583130;67.2;51.09239395;3.380869524;03/10/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138663098;38.3;50.81249196;3.534795882;10/07/18;0;Grassland;Grassland without tree/shrub cover;Amenities museum leisure (e.g. parks botanical gardens)
+0-20 cm;138703124;13.3;51.04833175;3.559101525;03/10/18;0;Bareland;Other bare soil;Kitchen gardens
+0-20 cm;138763094;12.2;50.78453556;3.681099405;15/07/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138803102;8.9;50.8592347;3.72799327;12/07/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138803134;20.6;51.14565749;3.689017398;26/09/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138883110;9.8;50.93695759;3.83176071;28/07/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138903114;30.7;50.97427912;3.855379254;19/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138983092;13.2;50.78326544;3.994491023;17/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138983116;11.7;50.99816685;3.966620661;20/07/18;0;Cropland;Other Leguminous  and mixtures for fodder;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139123144;41;51.25912543;4.133669068;21/09/18;0;Cropland;Other root crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139263086;43.4;50.74946663;4.397014147;24/08/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;139303086;54.3;50.75220302;4.4535541;24/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139303122;42.2;51.07473643;4.414866851;22/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139543124;19.8;51.10862413;4.754539878;25/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139563112;33.2;51.00235798;4.795165913;16/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139623104;35;50.93445197;4.888383891;14/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139703092;18;50.83183563;5.013522111;11/08/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139883092;13.7;50.842573;5.268570515;01/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139743098;13.7;50.88806524;5.064484487;11/08/18;0;Cropland;Apple fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139803096;27.2;50.87373688;5.151465461;11/08/18;0;Cropland;Pear fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138043130;16.4;51.04595915;2.613431673;05/09/18;0;Cropland;Other fibre and oleaginous crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138083128;17.2;51.03169874;2.673069721;05/09/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138103106;9.3;50.83686187;2.732404731;31/08/18;0;Cropland;Other fresh vegetables;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138143104;10.7;50.82253646;2.791732061;31/08/18;0;Cropland;Other Leguminous  and mixtures for fodder;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138183132;38.6;51.07636227;2.809471392;10/09/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139963136;25;51.24176252;5.342385563;14/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138223144;20.2;51.18715179;2.849661825;06/09/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138383124;12.5;51.02213031;3.10449379;16/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139023088;11.8;50.75037795;4.055622507;18/08/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138403112;11;50.9164974;3.148808539;16/08/18;0;Cropland;Other fresh vegetables;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138443098;12.5;50.79461974;3.22378558;03/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;138683122;11.7;51.02884946;3.533181895;11/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138463106;9.5;50.86784147;3.241649166;06/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138483116;9.6;50.95894988;3.256955227;14/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138483134;42.7;51.1199556;3.23339195;18/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;138523118;49.5;50.98013865;3.311100805;09/05/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138543096;14.9;50.78495334;3.367677968;31/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138543122;9;51.01756175;3.334321676;10/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139123076;28.2;50.6500985;4.210284188;04/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139223078;13.8;50.67503227;4.349159218;30/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139583078;10;50.69886968;4.857404971;11/09/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138743106;11.8;50.89038552;3.638145189;26/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138743146;17.6;51.24836094;3.588583974;26/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138883118;15.7;51.00857528;3.822209011;29/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138583072;29.7;50.57343837;3.454375845;24/05/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138943130;16.9;51.12052998;3.893248614;21/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138603088;18;50.71821903;3.462524473;30/05/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138723078;9.5;50.63821178;3.644095755;06/06/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139063124;15.9;51.07567796;4.071079834;20/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139083090;12.6;50.7726359;4.138158461;20/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138943054;25;50.4400252;3.981823767;18/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139123108;12.3;50.93671902;4.17454053;21/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139083042;11.1;50.34269072;4.191626326;22/06/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139263060;15.6;50.51651432;4.424822608;03/07/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139283056;15.4;50.48203607;4.45717952;02/07/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139183118;22.8;51.03055035;4.248557275;21/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139763078;8;50.70994783;5.111700474;30/08/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139783064;13.1;50.58560494;5.152973862;27/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139883048;19.5;50.44796303;5.308265418;11/06/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139943050;12.4;50.46932346;5.390842141;11/06/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140103044;31.1;50.42431579;5.620867594;19/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;140243026;140.3;50.27013687;5.831858735;27/06/18;0;Woodland;Broadleaved woodland;Residential
+0-20 cm;140363052;77.1;50.50949256;5.980151995;11/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140383036;48.5;50.36687488;6.020442814;10/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140423056;78.8;50.54832057;6.061625848;12/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;140603038;96.8;50.39514774;6.327922884;12/07/18;0;Wetlands;Inland marshes;Semi-natural and natural areas not in use
+0-20 cm;139622978;145.8;49.80474076;5.009186743;01/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139663000;28.9;50.00447194;5.044290447;25/08/18;0;Cropland;Oats;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139702984;44.7;49.8633866;5.114635247;30/05/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139862992;120.1;49.94450283;5.329790945;25/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;140043010;34.1;50.1160249;5.565194023;18/07/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140062984;43.8;49.88381214;5.614559013;16/06/18;0;Cropland;Oats;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140082970;75.7;49.75924892;5.653712087;17/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;140163006;22.8;50.08652615;5.73593503;12/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140203018;43.9;50.19629002;5.782216626;26/07/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;139203112;11.8;50.97821547;4.283638818;22/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139363034;44.2;50.29025042;4.592270274;24/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;138083120;15.1;50.96020162;2.684402816;03/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139443068;13.1;50.6002423;4.669911796;10/09/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138203100;10.6;50.79204988;2.882021404;20/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139483050;26.1;50.44150265;4.744357741;24/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138263134;18.7;51.10125048;2.920427071;10/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139523056;11.7;50.49785126;4.794602199;25/05/18;0;Cropland;Sugar beet;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139583032;35.6;50.28648328;4.902281677;17/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;139602980;117.8;49.82145166;4.979588433;01/06/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;139642992;70.2;49.93151291;5.023914853;01/06/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;139663018;16.6;50.16588804;5.027481981;05/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139663058;18.4;50.52455085;4.989615523;22/08/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;138523136;13.2;51.14115618;3.287710519;18/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139003046;11;50.37276841;4.075062251;19/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;139803036;12.7;50.33568639;5.206778358;20/06/18;0;Cropland;Temporary grassland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153182398;19.8;43.94336697;22.45506229;06/10/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153162396;42.3;43.92859371;22.42658341;06/10/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;153242382;20.3;43.79231547;22.49764063;11/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153302384;23.4;43.80104964;22.57513336;29/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153322372;21.1;43.69149593;22.57620458;04/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153322422;7.3;44.1352748;22.67471278;01/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153422396;34.7;43.88932736;22.74607136;07/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;153622366;48.4;43.59237295;22.93121975;09/10/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153462362;26.6;43.58148576;22.72783384;10/10/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153462368;43.3;43.63473932;22.73965238;11/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153482366;30.4;43.61393197;22.76015648;07/10/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153942344;16.8;43.34703022;23.27675357;29/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153482412;19.2;44.02205167;22.85182319;12/07/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154062392;19.3;43.75305355;23.52240586;12/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153542386;23.3;43.78216895;22.87334323;29/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153662376;16.1;43.67485498;23.00017897;09/10/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153662388;13.9;43.78127156;23.02441291;31/05/18;0;Grassland;Grassland without tree/shrub cover;Other abandoned areas
+0-20 cm;153702348;24.1;43.42026577;22.99280712;15/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Other abandoned areas
+0-20 cm;153702356;22;43.49123077;23.00882443;04/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;153782342;20.8;43.35455017;23.07814888;14/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;156082364;10.4;43.14989009;25.91248879;26/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153782378;17;43.67377748;23.15097479;14/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153802330;22.6;43.2449758;23.07839041;13/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;153802340;17.1;43.33367561;23.09845136;13/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;153802366;10.2;43.56423683;23.15099098;24/05/18;0;Grassland;Spontaneously re-vegetated surfaces;Semi-natural and natural areas not in use
+0-20 cm;153822386;13.9;43.73836806;23.2162635;14/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153842348;24.3;43.39833036;23.16324287;05/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153882320;37.1;43.14371006;23.15537503;15/09/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;146802974;12.2;49.76886788;14.9870943;07/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153922390;21.1;43.75788889;23.34690696;30/05/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153942332;19.8;43.24064155;23.25235514;13/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153982330;46.5;43.21655159;23.29682496;10/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154002332;14;43.23109446;23.32515982;11/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Fallow land
+0-20 cm;154002350;18.7;43.39064038;23.36199203;11/07/18;0;Artificial land;Other artificial areas;Electricity gas and thermal power distribution
+0-20 cm;154422324;13.4;43.09199043;23.81732639;29/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154802332;31.3;43.09886541;24.29383495;18/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142962776;13.7;48.09705216;9.664531687;15/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154142364;17.9;43.4920986;23.56140976;27/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154222336;19.7;43.2310793;23.60024505;18/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;143002766;13.2;48.00722154;9.718703739;16/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154322346;14.2;43.30327082;23.74250215;06/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154322396;18.7;43.74580299;23.84890299;03/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154402326;33.8;43.11300316;23.79734377;11/06/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;154402350;20.8;43.32546644;23.8480746;07/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154422352;17.6;43.33984802;23.87661006;05/06/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154442340;10.5;43.23031698;23.87536232;12/06/18;0;Shrubland;Shrubland with sparse tree cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154462372;19.5;43.51014465;23.96807167;13/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154482326;2.7;43.09974807;23.89410957;10/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;143182784;17.7;48.16953821;9.959686456;09/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154542344;43.1;43.24902792;24.00509876;11/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144842784;34.8;48.14780479;12.18979894;18/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154642318;17.9;43.00218116;24.07039102;13/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154642324;52.3;43.05526859;24.08323611;16/07/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;154642354;16.8;43.32063305;24.14792766;08/08/18;0;Cropland;Other fresh vegetables;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154662326;14.1;43.06958951;24.11169057;17/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;144762836;22.5;48.61750686;12.10179798;11/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154662380;25.7;43.54711182;24.22898344;01/09/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144862848;13.1;48.72275278;12.24216608;07/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154722380;19.5;43.53685946;24.30203079;13/07/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154722390;28.2;43.62522837;24.32413921;04/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Fallow land
+0-20 cm;154782320;28.7;42.99616562;24.24363427;17/07/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;145502864;15.6;48.8456326;13.12006609;25/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154782370;20.3;43.43819099;24.35293071;30/07/18;0;Cropland;Other fresh vegetables;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154782396;24.8;43.66790985;24.41064086;03/08/18;0;Shrubland;Shrubland without tree cover;Other abandoned areas
+0-20 cm;154822324;21.6;43.02470928;24.30057854;09/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154842358;8.9;43.32181991;24.39926953;05/06/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154862378;16.6;43.49506882;24.46792516;13/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154882406;14.7;43.73887038;24.55511359;13/07/18;0;Cropland;Oats;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154902344;14.8;43.18774727;24.44104971;14/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154902386;20.5;43.55878148;24.53447891;02/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155062358;12.8;43.28355316;24.66589952;23/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154922334;12.9;43.09591721;24.44319748;18/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155002378;15.1;43.47067177;24.63810457;14/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155102384;16.6;43.50602759;24.77322643;05/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155142320;30.4;42.93390993;24.67755786;20/08/18;0;Grassland;Grassland without tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;155142348;14.4;43.18118162;24.74022634;04/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155362396;15.8;43.56534626;25.1169654;15/10/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155182336;22.7;43.06817087;24.76155521;26/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155182378;16.2;43.43889057;24.85671963;25/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155182408;21.8;43.70353824;24.92568594;14/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155202358;15.4;43.25884093;24.83541126;28/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155242334;26.9;43.03989628;24.82943293;26/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155262344;22.1;43.12461385;24.87618287;14/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;155262350;38.7;43.17756741;24.88980557;02/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155282384;17.2;43.47395437;24.99191152;02/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155362346;17.3;43.12439426;25.00147679;26/10/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155302354;14.8;43.20572555;24.947271;21/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155322388;15.2;43.50203651;25.04974609;02/09/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155362364;17.9;43.28317823;25.04278572;24/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155342340;26.1;43.07503788;24.9636476;24/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Forestry
+0-20 cm;144442892;18.1;49.1284356;11.68504498;20/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155402328;30.7;42.95839785;25.00862616;13/08/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;155462330;31.4;42.96525018;25.08542561;24/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155462394;20.5;43.52954923;25.23382027;19/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Fallow land
+0-20 cm;153742228;47.6;42.34872739;22.80650852;05/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155562326;16.2;42.91186861;25.19656256;03/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;155562340;36.2;43.03532376;25.22888582;24/07/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;155562362;17.1;43.22926689;25.28004631;24/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155562404;19.1;43.599326;25.37897908;16/10/18;0;Woodland;Broadleaved woodland;Residential
+0-20 cm;155602316;16.6;42.81640441;25.2216134;01/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155622354;16.1;43.14777308;25.33381599;02/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155542396;15.4;43.53253297;25.33571383;15/10/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155742340;13;43.00231888;25.44566213;01/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155802390;19.3;43.4315063;25.63685521;08/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155702376;34.7;43.32685644;25.48232171;25/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;155742358;25;43.1609014;25.48803848;25/07/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;155802318;11;42.79736888;25.46626893;11/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155882404;13.5;43.53966948;25.76771829;23/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155822352;19.9;43.0931986;25.57031773;17/07/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;155842354;28.4;43.10708521;25.59917061;05/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155962348;14.9;43.03178571;25.7294115;11/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155862392;16.6;43.4378538;25.71438302;26/07/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155902364;19.4;43.18390382;25.69539227;23/09/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155902396;16;43.46551379;25.7725469;26/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;155902418;17.7;43.65903144;25.82616884;26/07/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155922326;20;42.84556017;25.62904859;12/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155962430;13.6;43.7531377;25.92868934;22/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156022416;47.1;43.61861029;25.96709979;22/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156042338;13.7;42.92868595;25.8016844;13/10/18;0;Artificial land;Non built-up area features;Road transport
+0-20 cm;156042438;11.3;43.80813282;26.04598493;03/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156082378;32.1;43.27303028;25.94655088;07/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156082450;15.9;43.90585025;26.12478298;23/09/18;0;Cropland;Soya;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155482404;14.2;43.61401069;25.28168419;03/09/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156282430;13.5;43.69136838;26.31796644;02/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156182448;18.3;43.8689037;26.24171669;22/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156202458;15;43.95280153;26.29145427;23/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156222438;18;43.77331253;26.26519026;03/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156262342;27.4;42.92198117;26.07555244;16/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;156302418;9.9;43.58209753;26.31199242;14/09/18;0;Cropland;Other Leguminous  and mixtures for fodder;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156482464;14.7;43.95020704;26.64853738;29/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156362466;12.4;43.99157193;26.50726608;24/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156502448;13.6;43.80592646;26.63147856;02/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156842490;20.1;44.10506951;27.1566233;21/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144782914;10.8;49.31823719;12.15930168;31/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156502438;15.5;43.71822449;26.60570645;14/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156562458;33.7;43.88161976;26.73045432;14/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156582460;14.3;43.89514033;26.76003031;04/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156622418;52;43.5189045;26.69981996;05/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;144962878;46.1;48.98962512;12.39092927;06/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156642452;19;43.81296901;26.8121949;29/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156662410;22;43.44074905;26.7276491;10/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156662432;13.9;43.633647;26.78444902;02/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144962918;13;49.34916611;12.40848432;13/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156702444;16.2;43.73077002;26.86423439;02/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156742462;18.8;43.88036754;26.96013581;04/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Semi-natural and natural areas not in use
+0-20 cm;156742470;15.6;43.95043142;26.98127823;26/08/18;0;Cropland;Soya;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156802486;13.6;44.0782683;27.09704963;27/08/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156962458;11.7;43.80035005;27.21708833;04/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157022486;15;44.03287362;27.36550745;01/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157102470;11.7;43.87630819;27.41955058;21/08/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157182484;20;43.98194602;27.55503285;09/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157262478;42.7;43.9126709;27.63594062;06/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;133602062;5;41.00310254;-1.421406464;14/07/18;0;Bareland;Other bare soil;Fallow land
+0-20 cm;156162386;25.9;43.32805915;26.06281533;01/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;156182394;19.85;43.39452982;26.10673615;06/10/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156202386;34.3;43.32036323;26.11115575;27/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156202408;63.6;43.51369308;26.16569406;17/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156282362;12.2;43.09397712;26.14852675;15/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156322370;26.6;43.15655315;26.21642054;26/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156142406;14.7;43.50769651;26.08799621;27/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156782386;16.1;43.20621876;26.81081132;05/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156462394;34.6;43.34002502;26.44522218;06/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156462398;17.8;43.37514109;26.45531121;02/08/18;0;Cropland;Permanent industrial crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156482382;13.5;43.23073401;26.43916727;25/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157002452;16.4;43.73959496;27.24963056;20/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156522380;26.2;43.20530304;26.48235516;25/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156562372;27.6;43.12718075;26.51040071;08/09/18;0;Shrubland;Shrubland without tree cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156602362;26.2;43.03148863;26.53336628;27/07/18;0;Woodland;Broadleaved woodland;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156662360;8;43.00205547;26.60040167;23/09/18;0;Bareland;Other bare soil;Fallow land
+0-20 cm;156702354;7.8;42.94144953;26.63328527;25/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156702372;12.6;43.09941807;26.67881378;23/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145022946;16.7;49.59900735;12.50391507;18/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156822398;11.5;43.30337695;26.88992101;09/08/18;0;Cropland;Lucerne;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156822416;25.7;43.46114191;26.93662051;04/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;143622824;18;48.52803778;10.5548872;23/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156842364;8.1;43.00121544;26.82662414;26/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156862420;16.1;43.48807524;26.99542386;04/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144603314;6.4;52.9168657;12.06663996;30/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156922404;21.6;43.3356893;27.0261076;05/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156922416;34.9;43.44081756;27.05748028;04/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157022450;16;43.71796373;27.26855401;04/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157042376;36.1;43.06589172;27.09761597;03/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;157062390;25.6;43.1844468;27.15816314;05/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;135062104;12;41.56310586;0.237419229;08/08/18;0;Bareland;Other bare soil;Fallow land
+0-20 cm;157062416;24.1;43.41212504;27.22655822;05/07/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157082394;37.1;43.21537567;27.19270766;05/08/18;0;Cropland;Lucerne;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157082430;13;43.53054271;27.28787064;13/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157102368;9.7;42.98352768;27.14880176;26/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157122392;23.5;43.18963422;27.23557509;01/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157122438;19.5;43.5922584;27.35762782;08/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157382392;28.8;43.13561621;27.54802622;08/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157182422;15.4;43.43980948;27.38737014;08/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157182452;18.6;43.70221445;27.46797645;29/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157442466;23.2;43.76967513;27.82148725;06/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157282386;20.3;43.10399725;27.41199798;01/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157282404;21.1;43.26150259;27.45985649;12/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157282426;15.4;43.45393451;27.51881806;13/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157322470;17.9;43.83009882;27.68688699;06/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157342364;30.1;42.89896006;27.42576713;06/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157362448;18.8;43.62942071;27.67514578;04/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157382428;13.9;43.45040422;27.64491693;05/08/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157382436;27.6;43.520327;27.66663772;05/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157522444;16.5;43.56049001;27.85767167;02/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144643358;13.1;53.31102703;12.14558376;11/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157442366;11.8;42.89558697;27.55068195;04/10/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144763232;7;52.17604985;12.26622001;20/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157462398;26.2;43.1712663;27.66019412;08/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;157462416;50.2;43.32861689;27.70882021;08/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157462440;46.8;43.53833085;27.77419984;05/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;144823334;8.7;53.09041263;12.40344626;03/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157542394;8.8;43.11938354;27.74544966;15/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144843348;9.5;53.21553969;12.44037114;01/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;135062126;8.1;41.76006963;0.205883675;27/06/18;0;Bareland;Other bare soil;Fallow land
+0-20 cm;157342408;20.6;43.28394508;27.54277488;17/07/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157642434;17.9;43.44747531;27.97495287;06/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;145023284;20.1;52.63512968;12.67411138;26/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142243402;19.2;53.71657824;8.530852987;18/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157682458;18.7;43.64831336;28.08991137;29/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142863320;25.3;52.98742006;9.478855088;02/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141083280;15.6;52.58771829;6.856191951;31/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157742428;20;43.37356118;28.07884154;06/08/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;157762456;40.3;43.61352229;28.18102637;29/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;157802466;21.1;43.69201288;28.25753239;06/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141583286;15.7;52.65874224;7.590646986;06/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157842460;21;43.63096435;28.28895906;06/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141603320;21;52.96468356;7.603506716;05/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155602298;14.8;42.65763042;25.18036219;01/08/18;0;Cropland;Rice;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141643342;17.7;53.16343399;7.652331193;08/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155682266;23.2;42.36077591;25.20310948;04/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155722274;18.1;42.42408623;25.26899955;23/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155722292;8.3;42.58285651;25.31021857;03/10/18;0;Cropland;Permanent industrial crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141703268;21.2;52.50051023;7.77609251;04/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155742290;6.1;42.5615595;25.32953204;01/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155862266;34.4;42.32788557;25.41751932;13/10/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;155902264;13.9;42.30287968;25.46053118;13/10/18;0;Grassland;Spontaneously re-vegetated surfaces;Semi-natural and natural areas not in use
+0-20 cm;141743306;17.9;52.84290865;7.81807925;07/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141783342;20.9;53.16732024;7.861558712;15/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156002286;9.1;42.47824641;25.63073472;14/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;141823346;26.9;53.20429189;7.919613764;30/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156082288;19;42.48089218;25.73085798;23/09/18;0;Cropland;Cherry fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156102260;22.3;42.23045615;25.68906995;24/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156142258;22.7;42.20533692;25.731913;15/10/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156142276;10.5;42.36391193;25.77411283;09/08/18;0;Cropland;Other fresh vegetables;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156162290;22.9;42.48343727;25.83099549;23/09/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156202314;41.9;42.68712519;25.93598068;14/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;141843340;37.9;53.15091062;7.952089528;26/05/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141963222;12.6;52.09378584;8.175882103;26/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156422290;7.5;42.43383557;26.14084078;25/07/18;0;Shrubland;Shrubland without tree cover;Semi-natural and natural areas not in use
+0-20 cm;156442264;16.7;42.20122071;26.10218643;05/08/18;0;Grassland;Grassland without tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;156462260;19.1;42.16217667;26.1163475;20/08/18;0;Cropland;Other Leguminous  and mixtures for fodder;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156682268;20.4;42.18990284;26.39647292;26/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156482306;14.9;42.56295593;26.25114628;02/05/18;0;Cropland;Durum wheat;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156562290;20.6;42.40673506;26.30749234;06/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156562344;35;42.88129532;26.44037203;24/08/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;141963248;10.9;52.32736506;8.166302698;25/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156662338;23.6;42.80890309;26.54521019;24/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;156722276;16.3;42.25239206;26.46343428;21/08/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;156742272;12.2;42.21330666;26.47736998;21/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156782268;19.3;42.17028343;26.51499066;26/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142063322;24.5;52.99433765;8.287227441;10/09/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156802342;18.6;42.81621138;26.72282394;24/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156842256;21.5;42.05299304;26.55663321;30/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;142083332;33.2;53.08459289;8.313516782;28/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140523090;14.6;50.85823891;6.177697005;06/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141003224;16.9;52.08186203;6.774990309;11/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156862330;22.6;42.69890696;26.76427123;23/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;156902250;38.7;41.98840586;26.61284802;14/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;156902276;21.9;42.21682886;26.67690014;16/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;156922264;20.1;42.10744541;26.67092283;15/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141083172;17.3;51.618117;6.923613113;15/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;141083226;14.5;52.10294119;6.890351574;11/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157022266;24.6;42.10506835;26.79418229;16/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;157062336;15.3;42.71121751;27.0183507;23/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157102282;9.1;42.22944256;26.92889012;21/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157122302;15.9;42.40086855;27.00313023;08/08/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157122330;17;42.64640726;27.07456256;23/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157122348;17.4;42.80418445;27.12090159;23/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157142286;19.3;42.25645474;26.98636981;22/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157162300;22;42.37520582;27.04555784;21/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157162364;10.7;42.93617683;27.21028663;08/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;157242282;7.6;42.20105347;27.09470549;21/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;141363184;12.2;51.73579608;7.321305637;01/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157262276;11.2;42.14435199;27.103162;06/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157302330;12.3;42.60950739;27.2890957;01/09/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157322286;31.7;42.21977986;27.19960036;22/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157362326;22;42.56207159;27.35014596;23/08/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157422350;22.1;42.75974907;27.48447248;17/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157442294;31.6;42.26518031;27.36223807;22/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;157442340;17.9;42.66804265;27.48201569;17/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157482360;12.8;42.8347046;27.58256937;10/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157522354;18.1;42.77381092;27.61440439;25/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157542296;11.6;42.26193318;27.48583733;01/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;157542308;26.7;42.36701631;27.51709142;06/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;157702274;30;42.03581934;27.61770921;22/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;129042168;91.6;41.17196535;-6.975055937;18/08/18;0;Shrubland;Shrubland with sparse tree cover;Forestry
+0-20 cm;153402272;18.1;42.79114521;22.48159553;14/09/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153442258;42.2;42.66072491;22.50339832;08/09/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;153462246;6.8;42.55105924;22.50488202;08/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;153462264;34.1;42.71106063;22.53880057;04/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;153482214;14.8;42.26353702;22.46909674;06/09/18;0;Cropland;Apple fruit;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153482276;10.6;42.8146974;22.58567807;04/06/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153502218;17.1;42.29612565;22.50045933;06/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153522226;16;42.36426753;22.5393445;06/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;153562216;35.3;42.26935616;22.56848422;12/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153582236;45.2;42.44413917;22.63005919;05/09/18;0;Woodland;Other mixed woodland;Semi-natural and natural areas not in use
+0-20 cm;153582250;26.6;42.56856186;22.65660184;04/07/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;153602270;26.1;42.74322644;22.7188734;14/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;153702212;38.3;42.21264345;22.72825054;05/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;153702216;16.8;42.24819485;22.73582827;31/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;153702240;28.7;42.46146085;22.78154841;23/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;153702262;7.7;42.65689102;22.82384412;07/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;153702276;12.4;42.78122409;22.85095371;04/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;153722304;47.6;43.02672448;22.92983119;12/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153742220;19.9;42.27764306;22.79123855;04/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153742300;45.2;42.98812346;22.94615232;12/09/18;0;Cropland;Oats;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153742306;27.9;43.04137713;22.95797204;12/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;153742310;46.9;43.07687708;22.9658677;12/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Other abandoned areas
+0-20 cm;153762196;33.5;42.06129479;22.7695446;18/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;153762206;10.4;42.1501742;22.78849232;19/06/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;153782270;22.5;42.71561085;22.93563177;07/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153802244;8;42.48163965;22.90915364;08/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153802286;24.9;42.85454798;22.99107557;13/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153822218;19.6;42.24760468;22.88301687;04/09/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;153822252;41.9;42.54959401;22.94866139;02/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;140882988;19.3;49.958043;6.752151177;26/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153842316;42.7;43.11451424;23.09889962;15/09/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;141962892;9.3;49.12802056;8.287564723;19/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153862246;19.2;42.49011584;22.98498348;31/08/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153882194;22;42.0251259;22.90863694;05/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;153882222;18.3;42.27387527;22.96240286;03/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;142082918;13.3;49.36418841;8.444515533;31/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153882234;31.3;42.38045135;22.98562875;12/06/18;0;Shrubland;Shrubland with sparse tree cover;Semi-natural and natural areas not in use
+0-20 cm;153882276;32.1;42.75332288;23.06779872;04/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144983158;10.6;51.50485785;12.54981374;19/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153882288;43.5;42.85981641;23.09153012;04/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153902178;32.2;41.87986149;22.90193123;01/12/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;153902242;33.6;42.44838148;23.02514076;08/08/18;0;Cropland;Potatoes;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153902268;35.9;42.67919272;23.07609619;31/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;153922288;38.3;42.85354034;23.13977611;23/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Fallow land
+0-20 cm;153942254;33.5;42.54866984;23.09660098;23/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153962180;28.8;41.88836914;22.976996;20/07/18;0;Cropland;Other fruit trees and berries;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153962194;16;42.01275232;23.00384291;21/06/18;0;Shrubland;Shrubland with sparse tree cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153962198;6.7;42.0482857;23.01154075;21/06/18;0;Cropland;Vineyards;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;153982204;12.6;42.09846914;23.0469399;15/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154022244;14.6;42.44735159;23.17283462;12/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154022258;26.9;42.57159638;23.20051443;24/09/18;0;Woodland;Other mixed woodland;Amenities museum leisure (e.g. parks botanical gardens)
+0-20 cm;153822288;22;42.86918766;23.01914419;13/09/18;0;Cropland;Barley;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154022304;26.3;42.97965173;23.29255928;31/08/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;154022312;34.3;43.05059019;23.3087409;07/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154042174;31.9;41.82263284;23.06044151;22/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154062198;33;42.03268157;23.13056655;05/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154062230;40.7;42.3167887;23.19312702;02/09/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154062288;30.7;42.83139424;23.30856553;24/08/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;154102148;11.7;41.58226783;23.08164919;05/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154102180;5.5;41.86655067;23.14319813;24/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154102198;9.7;42.02640054;23.17816171;22/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154102246;15.5;42.45245958;23.27262409;01/09/18;0;Cropland;Dry pulses;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154102324;66.3;43.1441676;23.4300298;21/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154122308;17.9;42.99913368;23.42150759;17/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;154122326;56.6;43.15867418;23.4583617;10/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154142176;10.4;41.82474261;23.18290264;23/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;154142248;23.2;42.46384794;23.32452166;01/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154162172;11.6;41.78607046;23.19885623;05/07/18;0;Grassland;Spontaneously re-vegetated surfaces;Forestry
+0-20 cm;154162190;19.8;41.94591052;23.23388832;05/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154182138;35.1;41.48089928;23.15694742;13/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154182272;12.7;42.67032571;23.42071114;20/05/18;0;Woodland;Broadleaved woodland;Residential
+0-20 cm;154202132;9;41.42444942;23.16902839;31/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154202178;16.5;41.83303941;23.25794683;23/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154222134;5.8;41.43907707;23.19643434;06/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154222236;18.8;42.34462067;23.39629277;01/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154282144;6.1;41.51843884;23.2864801;27/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154282238;16.9;42.35273236;23.47203098;06/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154282252;20;42.47688847;23.50026092;21/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154302142;5.8;41.49750562;23.30619693;06/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154322284;33;42.75407716;23.61350682;08/06/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154342240;35;42.36078605;23.54779244;06/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154362138;9.2;41.4524432;23.36916557;13/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154382196;8.7;41.96406001;23.50709243;24/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Forestry
+0-20 cm;154382232;16.4;42.28336772;23.57939823;15/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154402264;30.3;42.5637874;23.66852623;20/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154402308;14.1;42.95360585;23.75961539;10/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154422140;27.1;41.46061509;23.44377969;14/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154422204;20.5;42.02856491;23.57063616;16/08/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154422320;10.2;43.05657375;23.80891163;04/06/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154442182;6.8;41.8301645;23.55037514;15/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154462180;12.8;41.80918503;23.57008786;24/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154482172;117.5;41.73496858;23.57782293;23/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154502194;9.7;41.92687909;23.64557362;23/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154502242;23.3;42.3524376;23.74309448;15/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154502256;13.4;42.47650032;23.7718889;15/08/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154482304;42.2;42.90497401;23.84773008;03/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154522214;39.6;42.10096285;23.70978574;22/09/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154542164;22.8;41.65425581;23.63282819;06/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154542254;15.9;42.45218799;23.8156372;05/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154582260;18.65;42.49872435;23.87596016;15/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154602194;17.6;41.9105279;23.76423552;21/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154602208;26.5;42.03464247;23.79271964;22/09/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154642162;19.7;41.62019249;23.74695449;31/07/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154642274;83.7;42.61272469;23.97712944;02/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154662170;8.9;41.6878597;23.78670337;06/07/18;0;Woodland;Other coniferous woodland;Forestry
+0-20 cm;154722156;6;41.55383038;23.82928247;31/07/18;0;Bareland;Other bare soil;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154762164;21.6;41.61815815;23.89268078;30/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154842164;10.6;41.60486468;23.98710562;30/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;154862162;9.2;41.58380075;24.00661295;07/07/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;154862288;11.3;42.69949081;24.2708856;04/10/18;0;Cropland;Rape and turnip rape;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154882154;10.2;41.50955128;24.01383793;07/07/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154902170;34.2;41.64800602;24.07023849;30/07/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154922280;38.9;42.61847376;24.32565047;04/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154982278;45.5;42.59049045;24.39324191;20/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154642202;13.3;41.9748652;23.82799464;20/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;154682234;22.8;42.25179848;23.94145716;02/10/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154702186;36.1;41.82312437;23.86650339;21/09/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154742186;55.2;41.81649769;23.91387724;19/09/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154742240;20.1;42.29492435;24.02551966;02/10/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;154782212;19.1;42.04022314;24.01487002;16/08/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;154782226;32.7;42.16423217;24.04397496;17/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;154822180;53;41.75000739;23.99626049;09/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154822210;10.4;42.01580687;24.05823856;18/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154862180;23;41.74332045;24.0435679;07/07/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154862248;6.7;42.34554241;24.18555969;18/07/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154882204;36.4;41.9525775;24.11697771;17/08/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;155182252;16;42.32598298;24.57594991;18/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154922204;39;41.94582986;24.16442836;08/06/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154922222;28.9;42.1052131;24.20217612;20/09/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;154942200;42.6;41.90702527;24.17978496;30/09/18;0;Woodland;Other mixed woodland;Forestry
+0-20 cm;154942224;4.8;42.11952586;24.23017459;08/06/18;0;Cropland;Other non-permanent industrial crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;144163248;11.1;52.33333994;11.39372539;11/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154962180;109.1;41.72650556;24.16179649;01/10/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;154962244;33.5;42.29313719;24.29638351;01/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;154982206;17.3;41.9533745;24.2397876;30/09/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;155002216;13.9;42.03850042;24.28459495;17/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155022182;30.7;41.7340623;24.2368804;01/10/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;155062172;9.7;41.63870467;24.26325139;28/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;155062178;25.3;41.69184055;24.2757837;28/09/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;144343140;20.4;51.35957218;11.62245959;18/07/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155062268;50.7;42.48826674;24.46736003;18/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155082224;40.3;42.09561297;24.39662249;25/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;155082228;44.2;42.13100564;24.40515965;01/09/18;0;Woodland;Broadleaved woodland;Semi-natural and natural areas not in use
+0-20 cm;144703216;11.3;52.03397314;12.1715582;03/08/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155102172;9.6;41.63189317;24.3104519;07/06/18;0;Grassland;Grassland with sparse tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155102178;81.1;41.6850222;24.32302305;28/09/18;0;Woodland;Pine dominated coniferous woodland;Forestry
+0-20 cm;155102204;15.6;41.91518869;24.37784097;17/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;155102294;15.9;42.71117849;24.5719928;17/04/18;0;Cropland;Permanent industrial crops;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155142186;29.1;41.7490031;24.38711258;18/08/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;145203194;9.1;51.82079833;12.88694674;13/06/18;0;Cropland;Maize;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155182166;26.3;41.56508306;24.39220611;18/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;155182202;20.8;41.88372806;24.46836724;29/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155202268;20.8;42.46393665;24.63472998;18/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155262182;63;41.69292432;24.52038833;28/09/18;0;Woodland;Broadleaved woodland;Forestry
+0-20 cm;155262206;25.1;41.90526404;24.57167344;25/09/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;155282244;6.7;42.23779822;24.67768368;18/07/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155282262;15.6;42.39688959;24.71711096;18/09/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155302200;24.3;41.84523166;24.60614219;25/08/18;0;Woodland;Spruce dominated coniferous woodland;Forestry
+0-20 cm;155302218;13;42.00442638;24.6449505;26/08/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;155302228;7.8;42.09284768;24.66662963;26/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155302246;8.5;42.25196971;24.70586794;10/08/18;0;Grassland;Spontaneously re-vegetated surfaces;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155322204;59.3;41.87712399;24.63841967;26/09/18;0;Grassland;Grassland with sparse tree/shrub cover;Semi-natural and natural areas not in use
+0-20 cm;155342278;7.3;42.52766763;24.82415753;17/09/18;0;Cropland;Lucerne;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155362162;17.1;41.49859188;24.59572443;27/09/18;0;Woodland;Pine dominated mixed woodland;Forestry
+0-20 cm;155362180;22;41.6578542;24.63413291;18/08/18;0;Grassland;Grassland without tree/shrub cover;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155362256;10.1;42.32977615;24.79932417;24/09/18;0;Cropland;Sunflower;Agriculture (excluding fallow land and kitchen gardens)
+0-20 cm;155362288;10.5;42.61244064;24.87037349;17/04/18;0;Grassland;Spontaneously re-vegetated surfaces;Fallow land

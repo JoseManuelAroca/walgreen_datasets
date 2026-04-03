@@ -15,17 +15,17 @@ Preprint submitted to Computers and Electronics in Agriculture March 27, 2026
 
 
 ### Features
-🚀 Key Features
-*🌐 Google Earth Engine (GEE) integration
-*🛰️ Multi-sensor data fusion:
-*Sentinel-2
-*Landsat-8
-*🧠 AlphaEarth 64-dimensional embeddings
-*🤖 Automated ML pipelines using scikit-learn
-*🌲 Ensemble models (RF, GBM, ExtraTrees)
-*📍 Spatial prediction (lat/lon based)
-*⏳ Multi-year SOC modeling
-*📊 Auto-generated visualizations (scatter, residuals)
+🚀 Key Features<br/>
+🌐 Google Earth Engine (GEE) integration<br/>
+🛰️ Multi-sensor data fusion:<br/>
+     Sentinel-2<br/>
+     Landsat-8<br/>
+🧠 AlphaEarth 64-dimensional embeddings<br/>
+🤖 Automated ML pipelines using scikit-learn<br/>
+🌲 Ensemble models (RF, GBM, ExtraTrees)<br/>
+📍 Spatial prediction (lat/lon based)<br/>
+⏳ Multi-year SOC modeling<br/>
+📊 Auto-generated visualizations (scatter, residuals)<br/>
 
 ## Papers
 
